@@ -23,25 +23,25 @@ const verification = () => {
       <View className="flex flex-col items-center justify-center mt-[90px] space-y-3">
         <View className="flex flex-row items-center justify-start space-x-2">
           <TextInput
-            className="w-[59px] h-[60px] p-4 border border-[#6b6b6b] text-2xl font-interFont font-thin text-gray-700 rounded-2xl focus:border focus:border-black"
+            className="w-[59px] h-[60px] p-4 border border-[#6b6b6b] text-3xl font-interFont font-thin text-gray-700 rounded-2xl focus:border focus:border-black flex items-center justify-center"
             inputMode="tel"
             maxLength={1}
           />
 
           <TextInput
-            className="w-[59px] h-[60px] p-4 border border-[#6b6b6b] text-2xl font-interFont font-thin text-gray-700 rounded-2xl focus:border focus:border-black"
+            className="w-[59px] h-[60px] p-4 border border-[#6b6b6b] text-3xl font-interFont font-thin text-gray-700 rounded-2xl focus:border focus:border-black flex items-center justify-center"
             inputMode="tel"
             maxLength={1}
           />
 
           <TextInput
-            className="w-[59px] h-[60px] p-4 border border-[#6b6b6b] text-2xl font-interFont font-thin text-gray-700 rounded-2xl focus:border focus:border-black"
+            className="w-[59px] h-[60px] p-4 border border-[#6b6b6b] text-3xl font-interFont font-thin text-gray-700 rounded-2xl focus:border focus:border-black flex items-center justify-center"
             inputMode="tel"
             maxLength={1}
           />
 
           <TextInput
-            className="w-[59px] h-[60px] p-4 border border-[#6b6b6b] text-2xl font-interFont font-thin text-gray-700 rounded-2xl focus:border focus:border-black"
+            className="w-[59px] h-[60px] p-4 border border-[#6b6b6b] text-3xl font-interFont font-thin text-gray-700 rounded-2xl focus:border focus:border-blackflex items-center justify-center"
             inputMode="tel"
             maxLength={1}
           />
