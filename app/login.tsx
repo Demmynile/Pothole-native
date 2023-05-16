@@ -35,7 +35,7 @@ const login = () => {
           <Button
             type="submit"
             className="w-[340px] h-[60px] bg-primaryColor rounded-lg flex items-center justify-center"
-            onPress={() => router.push("verification")}
+            onPress={() => router.push("home")}
           >
             Log in
           </Button>
