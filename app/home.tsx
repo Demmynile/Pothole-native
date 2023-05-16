@@ -19,26 +19,6 @@ const Home = () => {
         <View>
           <Text className="font-bold text-xl">Get Started</Text>
         </View>
-        <View className="w-full rounded-md bg-[#1A1742] h-[90px] flex items-center justify-center space-x-3">
-          <View className=" w-full">
-            <View>
-              <Image source={question} />
-            </View>
-            <View className="flex flex-col items-center space-y-1 bg-black">
-              <View>
-                <Text className="w-[137px] h-[19px] text-white">
-                  Report a porthole
-                </Text>
-              </View>
-              <View>
-                <Text className="w-[240px] h-[32px] text-white">
-                  Capture the location and add details to help us locate and
-                  repair portholes.
-                </Text>
-              </View>
-            </View>
-          </View>
-        </View>
       </View>
     </SafeAreaView>
   );
